@@ -1,0 +1,7 @@
+# Este repo (libros) solo publica la portada común en GitHub Pages.
+# Cada web es su propio repo y music.db no se sube.
+/*
+!/.gitignore
+!/index.html
+!/img/
+!/CLAUDE.md
