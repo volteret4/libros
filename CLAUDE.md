@@ -27,7 +27,7 @@ copiarlo a todas.
 
 También comparten la pestaña **Menciones** (`menciones.js` y el bloque
 `/* ---------- Menciones (menciones.js) ---------- */` de `style.css`): un desplegable para añadir
-uno o varios géneros (fichas que se reordenan arrastrándolas o con ↑↓; la selección va en
+uno o varios géneros (fichas que se quitan con ✕; cada timeline se reordena arrastrando el asa ⠿ de su título; la selección va en
 `#menciones=id1,id2|Artista`) y, para cada uno y en ese orden, un timeline con una barra por artista partida en los discos que el libro cita
 de él (agrupados como en Portadas, que le pasa `groups` y `byArtist`), cada tramo del color de su
 género. Al pulsar un artista, la ficha muestra los pasajes del libro que lo nombran y sus discos
