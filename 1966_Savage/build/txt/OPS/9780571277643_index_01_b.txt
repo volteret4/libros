@@ -1,0 +1,329 @@
+1.  Babbs, Ken, 1, 2
+2.  baby-boomers, 1, 2, 3, 4, 5
+3.  Bacharach, Burt, 1, 2, 3, 4
+4.  Bachelors, the, 1, 2, 3;
+    1.  ‘Diane’, 1
+5.  Baker, Curtis Lee, 1
+6.  Baker, Ginger, 1
+7.  Balch, Antony, 1
+8.  Balin, Marty, 1
+9.  Ballard, Florence, 1, 2
+10. Baniszewski, Gertrude, 1
+11. Banks, Lynne Reid: The L-Shaped Room (book), 1, 2
+12. Bara, Theda, 1
+13. Barnes, E. Richard, 1
+14. Barnes, J. J., 1
+15. Barrett, Syd, 1, 2, 3
+16. Barrow, Tony, 1, 2
+17. Barry, Len, 1
+18. Bart, Lionel, 1
+19. Baskir, Lawrence, 1
+20. Bass, Fontella, 1
+21. Batman (TV series), 1
+22. Battcock, Gregory, 1
+23. BBC: absence of black music, 1, 2;
+    1.  bans ‘Eve of Destruction’ (McGuire), 1;
+    2.  bans Kinks promo film, 1;
+    3.  films LSD party, 1;
+    4.  paucity of pop music, 1, 2;
+    5.  pirates threaten monopoly, 1;
+    6.  reschedules Alice in Wonderland, 1;
+    7.  restricted playlist, 1, 2;
+    8.  The War Game commission, 1, 2;
+    9.  see also individual programmes
+24. Beach Boys, the: hire Taylor, 1;
+    1.  Marriott on, 1;
+    2.  UK tour, 1;
+    3.  use electro-theremin, 1, 2;
+    4.  vocal range, 1;
+    5.  Welch on, 1;
+    6.  ‘Barbara Ann’, 1;
+    7.  The Beach Boys in London (film), 1;
+    8.  Best of the Beach Boys, 1;
+    9.  ‘Fire’, 1;
+    10. ‘God Only Knows’, 1, 2;
+    11. ‘Good Vibrations’, 1, 2, 3, 4, 5;
+    12. ‘Heroes and Villains’, 1;
+    13. Pet Sounds, 1, 2;
+    14. ‘Sloop John B’, 1, 2;
+    15. SMiLE, 1;
+    16. ‘You Still Believe Me’, 1
+25. Beardsley, Aubrey, 1, 2
+26. Beatles, the: and Alice in Wonderland (TV drama), 1, 2;
+    1.  and All Night Stand (book), 1;
+    2.  Beatlemania, 1, 2, 3, 4, 5, 6;
+    3.  as Brian Wilson’s obsession, 1, 2;
+    4.  ‘butcher’ cover controversy, 1;
+    5.  in charts, 1, 2;
+    6.  Cleave interviews, 1, 2, 3, 4;
+    7.  comparison with Stones, 1, 2, 3, 4;
+    8.  decamp to London, 1;
+    9.  Dusty on, 1;
+    10. end of beat boom, 1;
+    11. Epstein as guide, 1, 2;
+    12. Epstein signs, 1;
+    13. Far East tour, 1;
+    14. as first beat band, 1;
+    15. Four Tops on, 1;
+    16. on future plans, 1;
+    17. as generation’s spokesmen, 1;
+    18. hostility towards, 1, 2, 3, 4;
+    19. influence Dusty, 1;
+    20. ‘Jesus’ controversy, 1, 2;
+    21. look, 1, 2, 3;
+    22. and LSD, 1, 2, 3, 4, 5, 6, 7, 8;
+27. 
+    1.  and marijuana, 1;
+    2.  MBEs, 1, 2;
+    3.  meet Supremes, 1;
+    4.  mixing with elite, 1;
+    5.  Monkees mimic, 1;
+    6.  and the off-beat, 1;
+    7.  original fans develop, 1;
+    8.  as preferred guests, 1;
+    9.  on RSG!, 1;
+    10. sales of singles, 1, 2;
+    11. sitar, 1, 2, 3;
+    12. source soul, 1;
+    13. Stax influence, 1;
+    14. on Top of the Pops, 1;
+    15. as ‘unbearably smart’, 1;
+    16. US tour, 1, 2;
+    17. void post-disappearance, 1, 2, 3;
+    18. weariness, 1, 2;
+    19. Welch on, 1;
+    20. Whitaker photo shoot, 1, 2, 3, 4;
+    21. ‘And Your Bird Can Sing’, 1;
+    22. The Beatles at Shea Stadium (film), 1;
+    23. ‘The Chase’, 1;
+    24. A Collection of Beatles Oldies, 1;
+    25. ‘Day Tripper’, 1, 2, 3, 4, 5, 6;
+    26. ‘Dr Robert’, 1;
+    27. ‘Drive My Car’, 1, 2;
+    28. ‘Eight Days a Week’, 1;
+    29. ‘Eleanor Rigby’, 1, 2;
+    30. A Hard Day’s Night (film), 1, 2, 3;
+    31. ‘Help!’, 1, 2, 3, 4;
+    32. Help! (film), 1, 2, 3, 4;
+    33. Help! (soundtrack), 1, 2;
+    34. ‘I Feel Fine’, 1, 2;
+    35. ‘I’m Only Sleeping’, 1;
+    36. ‘Love Me Do’, 1;
+    37. ‘Michelle’, 1;
+    38. ‘Money (That’s What I Want)’, 1, 2;
+    39. ‘Paperback Writer’, 1, 2, 3, 4;
+    40. ‘Penny Lane’, 1;
+    41. ‘Please Mr Postman’, 1;
+    42. ‘Rain’, 1, 2, 3, 4;
+    43. Revolver, 1, 2, 3, 4, 5, 6, 7, 8;
+    44. Rubber Soul, 1, 2, 3, 4;
+    45. ‘She Loves You’, 1;
+    46. ‘She Said She Said’, 1, 2;
+    47. ‘Strawberry Fields Forever’, 1, 2, 3;
+    48. ‘Ticket to Ride’, 1;
+    49. ‘Tomorrow Never Knows’ (form. ‘The Void’), 1, 2, 3, 4;
+    50. ‘We Can Work It Out’, 1, 2, 3;
+    51. ‘What You’re Doing’, 1;
+    52. ‘When I’m Sixty-Four’, 1;
+    53. ‘The Word’, 1, 2;
+    54. ‘Yellow Submarine’, 1, 2;
+    55. Yesterday and Today, 1, 2;
+    56. ‘You Really Got a Hold on Me’, 1;
+    57. ‘You’ve Got to Hide Your Love Away’, 1
+28. beatniks: culture, 1, 2, 3;
+    1.  Diggers as descendants, 1;
+    2.  esoteric musical taste, 1;
+    3.  and folk fans, 1;
+    4.  London circuit, 1;
+    5.  look, 1;
+    6.  move to Haight-Ashbury, 1
+29. Beaton, Cecil, 1, 2
+30. Beatrix, Princess of the Netherlands, 1, 2
+31. Beau Brummels, the, 1;
+    1.  ‘Just a Little’, 1;
+    2.  ‘Laugh Laugh’, 1
+32. Beauvoir, Simone de, 1;
+    1.  The Second Sex (book), 1
+33. Beck, Jeff, 1, 2, 3, 4, 5
+34. Belcher, Ron, 1
+35. Bell, Al, 1
+36. Bell, Madeleine, 1
+37. Bellmer, Hans, 1
+38. Benjamin, Louis, 1
+39. Bennett, Tony, 1
+40. Berenson, Marisa, 1
+41. Berg, Gretchen, 1
+42. Berg, Peter: Search and Seizure (play), 1
+43. Berio, Luciano, 1
+44. Berkeley: bohemian culture, 1;
+    1.  Carmichael speech, 1;
+    2.  comparison with Garcia types, 1;
+    3.  Daily Californian on psychedelics, 1;
+    4.  as Reagan’s bête noire, 1, 2, 3, 4, 5, 6;
+    5.  Savio affair, 1, 2, 3;
+    6.  teenagers, 1, 2, 3;
+    7.  Vietnam war protests, 1, 2, 3, 4, 5
+45. Berkeley Barb (newspaper), 1, 2
+46. Berlin Wall, 1
+47. Bernstein, Herb, 1
+48. Berry, Jan: ‘The Universal Coward’, 1
+49. Berry, Jeff, 1
+50. Bestic, Alan: Turn Me On, Man (book), 1
+51. Biba (London boutique), 1, 2, 3
+52. 
+53. Big Brother and the Holding Company, 1, 2, 3;
+    1.  ‘All Is Loneliness’, 1, 2;
+    2.  ‘Blind Man’, 1
+54. Billings, Vic, 1
+55. Billy Name, 1, 2, 3, 4, 5
+56. Birmingham (UK), 1
+57. Bishop, Elvin, 1
+58. Black, Cilla, 1;
+    1.  ‘Alfie’, 1;
+    2.  ‘Anyone Who Had a Heart’, 1;
+    3.  ‘I’ve Been Wrong Before’, 1;
+    4.  ‘Love of the Loved’, 1;
+    5.  ‘Love’s Just a Broken Heart’, 1
+59. black culture: absence of musical protest, 1;
+    1.  as ‘alien’ to whites, 1;
+    2.  chart success, 1, 2, 3;
+    3.  dance crazes, 1, 2, 3, 4, 5;
+    4.  soul crossover to mainstream, 1, 2, 3, 4;
+    5.  Stax ‘black only’ policy, 1;
+    6.  Supremes on Ed Sullivan, 1;
+    7.  and value of love, 1;
+    8.  see also soul music
+60. Black Mask (newsletter), 1
+61. Black Panther Party: and Carmichael’s Berkeley speech, 1;
+    1.  manifesto, 1;
+    2.  symbol, 1, 2
+62. Blackwell, Charles, 1
+63. Blackwell, Chris, 1
+64. Blake, Peter, 1
+65. Blavatsky, Madame H. P., 1, 2, 3
+66. Bloomfield, Mike, 1
+67. Blow-Up (film), 1, 2, 3
+68. Blue Flames, the, 1
+69. Blue Magoos, the: ‘(We Ain’t Got) Nothing Yet’, 1;
+    1.  Psychedelic Lollipop, 1
+70. blues: Clapton as purist, 1;
+    1.  Crawdaddy! articles, 1;
+    2.  as insufficient, 1;
+    3.  and Motown, 1;
+    4.  and ‘Psychotic Reaction’ (Count Five), 1;
+    5.  Pye licenses, 1;
+    6.  Soul as ‘Not Blues’, 1;
+    7.  and Stones, 1, 2;
+    8.  at Twisted Wheel club, 1;
+    9.  ‘Vietnam’ (Jameson), 1;
+    10. west London scene, 1, 2, 3, 4;
+    11. see also R&B
+71. Bobby Fuller Four, the: ‘I Fought the Law’, 1
+72. Boise, Ron, 1, 2
+73. Bond, Graham, 1
+74. Bono, Sonny, 1;
+    1.  ‘The Revolution Kind’, 1;
+    2.  ‘Sunset Symphony’, 1;
+    3.  see also Sonny and Cher
+75. Bonzo Dog Doo-Dah Band, the, 1;
+    1.  ‘Alley Oop’, 1;
+    2.  ‘My Brother Makes the Noises for the Talkies’, 1
+76. Booker T. and the M.G.’s, 1, 2, 3
+77. Boorman, John, 1
+78. Borza, Peppi, 1
+79. Boshier, Derek, 1
+80. Botnick, Bruce, 1
+81. Boty, Pauline, 1, 2, 3;
+    1.  5-4-3-2-1 (painting), 1;
+    2.  It’s a Man’s World I and II (paintings), 1;
+    3.  My Colouring Book (painting), 1;
+    4.  Scandal 1963 (painting), 1
+82. Boulting Brothers, 1
+83. Bow, Clara, 1
+84. Bowie, David, 1;
+    1.  ‘I Dig Everything’, 1;
+    2.  ‘The London Boys’, 1
+85. Bowman, Rob, 1, 2, 3
+86. Boyd, Joe, 1, 2
+87. Boyd, Pattie, 1, 2
+88. Boyfriend Book, The (annual), 1
+89. Boyle, Mark, 1
+90. Boynton, Amelia, 1
+91. Brady, Ian, 1
+92. Bragin, Naomi Elizabeth, 1
+93. Brambell, Wilfrid, 1
+94. Brand, Stewart, 1, 2
+95. Brando, Marlon, 1
+96. Brian Poole and the Tremeloes, 1
+97. Briggs, Anne, 1
+98. British Board of Film Censors, 1
+99. British Invasion: black American music replaces, 1;
+    1.  first US response, 1, 2;
+    2.  Four Tops on, 1;
+    3.  inspires Dovers, 1;
+    4.  US bands supersede, 1
+100. Brogues, the: ‘Someday’, 1
+101. Brooks, Ray, 1, 2
+102. 
+103. Brooks, Rosa Lee: ‘My Diary’, 1
+104. Brown, Helen Gurley: Sex and the Single Girl (book), 1
+105. Brown, James: on Ed Sullivan Show, 1;
+     1.  Godin interview, 1;
+     2.  influences Who, 1;
+     3.  at March Against Fear, 1, 2;
+     4.  significance of, 1, 2;
+     5.  T.A.M.I. Show (1964), 1;
+     6.  UK unprepared for, 1;
+     7.  ‘Ain’t That a Groove Part 1’, 1;
+     8.  ‘Don’t Be a Drop Out’, 1, 2;
+     9.  ‘I Got You (I Feel Good)’, 1, 2, 3, 4, 5;
+     10. I Got You (I Feel Good), 1;
+     11. ‘It’s a Man’s Man’s Man’s World’, 1, 2, 3;
+     12. ‘James Brown’s Boo-Ga-Loo’, 1;
+     13. ‘New Breed (Part 1) (The Boo-Ga-Loo)’, 1;
+     14. ‘Night Train’, 1;
+     15. ‘Out of Sight’, 1;
+     16. ‘Papa’s Got a Brand New Bag Pt. 1’, 1;
+     17. ‘Please, Please, Please’, 1;
+     18. ‘Tell Me That You Love Me’, 1
+106. Brown, Joel and Toni, 1
+107. Brown, Maxine: ‘All in My Mind’, 1
+108. Brown, Pat, 1
+109. Brown, Pete, 1
+110. Brown, Peter, 1
+111. Browne, Tara, 1
+112. Brownmiller, Susan, 1
+113. Bruce, Jack, 1
+114. Brunner, John, 1
+115. Brunswick (record label), 1
+116. Bryant, Bill, 1
+117. Buddhism, 1, 2, 3, 4
+118. Buffalo Springfield, 1;
+     1.  Buffalo Springfield, 1;
+     2.  ‘For What It’s Worth’, 1
+119. Buikhuisen, Wouter: ‘Background to Nozem Behaviour’ (dissertation), 1
+120. Buñuel, Luis, 1
+121. Burdon, Eric, 1
+122. Burger, Gary, 1, 2
+123. Burgess, Anthony: A Clockwork Orange (book), 1, 2
+124. Burke, Solomon, 1, 2;
+     1.  ‘Maggie’s Farm’, 1, 2
+125. Burroughs, William, 1, 2, 3, 4, 5
+126. Burton, Peter, 1, 2, 3
+127. Busch, Andrew E., 1
+128. BUTCH (magazine), 1
+129. Butch Eagle and the Styx, 1
+130. Butterfield Blues Band, the, 1;
+     1.  ‘East West’, 1
+131. Buzz, the: ‘You’re Holding Me Down’, 1
+132. Byrds, the: as counter-culture’s representatives, 1;
+     1.  and Indian music, 1, 2, 3;
+     2.  influence, 1, 2, 3;
+     3.  LA benefit, 1;
+     4.  and LSD, 1, 2;
+     5.  and the ‘now’, 1, 2;
+     6.  ‘Eight Miles High’, 1, 2, 3, 4;
+     7.  ‘5D (Fifth Dimension)’, 1;
+     8.  ‘Mr Tambourine Man’, 1, 2;
+     9.  Turn, Turn, Turn, 1
+133. Byrne, John, 1

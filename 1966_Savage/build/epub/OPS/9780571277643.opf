@@ -1,0 +1,163 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ISBN" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>1966</dc:title>
+		<dc:identifier id="ISBN" opf:scheme="ISBN">9780571277643</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:creator opf:file-as="Jon Savage" opf:role="aut">Jon Savage</dc:creator>
+		<dc:contributor opf:file-as="" opf:role="edt"/>
+		<dc:publisher>Faber &amp; Faber</dc:publisher>
+		<dc:description>&amp;lt;p&amp;gt;The pop world accelerated and broke through the sound barrier in 1966. In America, in London, in Amsterdam, in Paris, revolutionary ideas slow-cooking since the late '50s reached boiling point. In the worlds of pop, pop art, fashion and radical politics — often fueled by perception-enhancing substances and literature — the 'Sixties', as we have come to know them, hit their Modernist peak. A unique chemistry of ideas, substances, freedom of expression and dialogue across pop cultural continents created a landscape of immense and eventually shattering creativity. After 1966 nothing in the pop world would ever be the same. The 7 inch single outsold the long-player for the final time. It was the year in which the ever lasting and transient pop moment would burst forth in its most articulate, instinctive and radical way. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Jon Savage's &amp;lt;b&amp;gt;1966&amp;lt;/b&amp;gt; is a monument to the year that shaped the pop future of the balance of the century. Exploring...</dc:description>
+		<dc:coverage/>
+		<dc:source/>
+		<dc:date opf:event="original-publication">2015</dc:date>
+		<dc:rights>© Jon Savage, 2015</dc:rights>
+		<dc:subject/>
+		<dc:type/>
+		<meta content="x_9780571277643_74" name="cover"/>
+	</metadata>
+
+	<manifest>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        
+		<item href="9780571277643_cover.html" id="cover-page" media-type="application/xhtml+xml"/>        
+		<item href="9780571277643_landingpage.html" id="x_9780571277643_01" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_booktitlepage.html" id="x_9780571277643_02" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_tableofcontents.html" id="x_9780571277643_03" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_introduction.html" id="x_9780571277643_04" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_part_01.html" id="x_9780571277643_05" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_01.html" id="x_9780571277643_06" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_02.html" id="x_9780571277643_07" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_03.html" id="x_9780571277643_08" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_04.html" id="x_9780571277643_09" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_05.html" id="x_9780571277643_10" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_06.html" id="x_9780571277643_11" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_07.html" id="x_9780571277643_12" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_08.html" id="x_9780571277643_13" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_part_02.html" id="x_9780571277643_14" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_09.html" id="x_9780571277643_15" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_10.html" id="x_9780571277643_16" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_11.html" id="x_9780571277643_17" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_chapter_12.html" id="x_9780571277643_18" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_acknowledgements.html" id="x_9780571277643_19" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_glossary.html" id="x_9780571277643_20" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_references.html" id="x_9780571277643_21" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_a.html" id="x_9780571277643_22" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_b.html" id="x_9780571277643_23" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_c.html" id="x_9780571277643_24" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_d.html" id="x_9780571277643_25" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_e.html" id="x_9780571277643_26" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_f.html" id="x_9780571277643_27" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_g.html" id="x_9780571277643_28" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_h.html" id="x_9780571277643_29" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_i.html" id="x_9780571277643_30" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_j.html" id="x_9780571277643_31" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_k.html" id="x_9780571277643_32" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_l.html" id="x_9780571277643_33" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_m.html" id="x_9780571277643_34" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_n.html" id="x_9780571277643_35" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_o.html" id="x_9780571277643_36" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_p.html" id="x_9780571277643_37" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_q.html" id="x_9780571277643_38" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_r.html" id="x_9780571277643_39" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_s.html" id="x_9780571277643_40" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_t.html" id="x_9780571277643_41" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_u.html" id="x_9780571277643_42" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_v.html" id="x_9780571277643_43" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_w.html" id="x_9780571277643_44" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_y.html" id="x_9780571277643_45" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_index_01_z.html" id="x_9780571277643_46" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_abouttheauthor.html" id="x_9780571277643_47" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_bythesameauthor.html" id="x_9780571277643_48" media-type="application/xhtml+xml"/>
+		<item href="9780571277643_copyrightinserted.html" id="x_9780571277643_49" media-type="application/xhtml+xml"/>
+		<item href="a035_online.jpg" id="x_9780571277643_50" media-type="image/jpeg"/>
+		<item href="a390_online.jpg" id="x_9780571277643_51" media-type="image/jpeg"/>
+		<item href="a442_online.jpg" id="x_9780571277643_52" media-type="image/jpeg"/>
+		<item href="a002_online.jpg" id="x_9780571277643_53" media-type="image/jpeg"/>
+		<item href="a281_online.jpg" id="x_9780571277643_54" media-type="image/jpeg"/>
+		<item href="a034_online.jpg" id="x_9780571277643_55" media-type="image/jpeg"/>
+		<item href="a003_online.jpg" id="x_9780571277643_56" media-type="image/jpeg"/>
+		<item href="a140_online.jpg" id="x_9780571277643_57" media-type="image/jpeg"/>
+		<item href="a494_online.jpg" id="x_9780571277643_58" media-type="image/jpeg"/>
+		<item href="a280_online.jpg" id="x_9780571277643_59" media-type="image/jpeg"/>
+		<item href="a495_online.jpg" id="x_9780571277643_60" media-type="image/jpeg"/>
+		<item href="a234_online.jpg" id="x_9780571277643_61" media-type="image/jpeg"/>
+		<item href="a105_online.jpg" id="x_9780571277643_62" media-type="image/jpeg"/>
+		<item href="a391_online.jpg" id="x_9780571277643_63" media-type="image/jpeg"/>
+		<item href="a334_online.jpg" id="x_9780571277643_64" media-type="image/jpeg"/>
+		<item href="a141_online.jpg" id="x_9780571277643_65" media-type="image/jpeg"/>
+		<item href="new_logo_online.png" id="x_9780571277643_66" media-type="image/png"/>
+		<item href="a078_online.jpg" id="x_9780571277643_67" media-type="image/jpeg"/>
+		<item href="a104_online.jpg" id="x_9780571277643_68" media-type="image/jpeg"/>
+		<item href="a187_online.jpg" id="x_9780571277643_69" media-type="image/jpeg"/>
+		<item href="a079_online.jpg" id="x_9780571277643_70" media-type="image/jpeg"/>
+		<item href="faber-branding-logo.png" id="x_9780571277643_71" media-type="image/png"/>
+		<item href="a443_online.jpg" id="x_9780571277643_72" media-type="image/jpeg"/>
+		<item href="9780571277643.css" id="x_9780571277643_73" media-type="text/css"/>
+		<item href="9780571277643_cover_epub.jpg" id="x_9780571277643_74" media-type="image/jpeg"/>
+		<item href="a186_online.jpg" id="x_9780571277643_75" media-type="image/jpeg"/>
+		<item href="a235_online.jpg" id="x_9780571277643_76" media-type="image/jpeg"/>
+		<item href="a335_online.jpg" id="x_9780571277643_77" media-type="image/jpeg"/>
+		
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="cover-page"/>	
+		<itemref idref="x_9780571277643_01" linear="yes"/>
+		<itemref idref="x_9780571277643_02" linear="yes"/>
+		<itemref idref="x_9780571277643_03" linear="yes"/>
+		<itemref idref="x_9780571277643_04" linear="yes"/>
+		<itemref idref="x_9780571277643_05" linear="yes"/>
+		<itemref idref="x_9780571277643_06" linear="yes"/>
+		<itemref idref="x_9780571277643_07" linear="yes"/>
+		<itemref idref="x_9780571277643_08" linear="yes"/>
+		<itemref idref="x_9780571277643_09" linear="yes"/>
+		<itemref idref="x_9780571277643_10" linear="yes"/>
+		<itemref idref="x_9780571277643_11" linear="yes"/>
+		<itemref idref="x_9780571277643_12" linear="yes"/>
+		<itemref idref="x_9780571277643_13" linear="yes"/>
+		<itemref idref="x_9780571277643_14" linear="yes"/>
+		<itemref idref="x_9780571277643_15" linear="yes"/>
+		<itemref idref="x_9780571277643_16" linear="yes"/>
+		<itemref idref="x_9780571277643_17" linear="yes"/>
+		<itemref idref="x_9780571277643_18" linear="yes"/>
+		<itemref idref="x_9780571277643_19" linear="yes"/>
+		<itemref idref="x_9780571277643_20" linear="yes"/>
+		<itemref idref="x_9780571277643_21" linear="yes"/>
+		<itemref idref="x_9780571277643_22" linear="yes"/>
+		<itemref idref="x_9780571277643_23" linear="yes"/>
+		<itemref idref="x_9780571277643_24" linear="yes"/>
+		<itemref idref="x_9780571277643_25" linear="yes"/>
+		<itemref idref="x_9780571277643_26" linear="yes"/>
+		<itemref idref="x_9780571277643_27" linear="yes"/>
+		<itemref idref="x_9780571277643_28" linear="yes"/>
+		<itemref idref="x_9780571277643_29" linear="yes"/>
+		<itemref idref="x_9780571277643_30" linear="yes"/>
+		<itemref idref="x_9780571277643_31" linear="yes"/>
+		<itemref idref="x_9780571277643_32" linear="yes"/>
+		<itemref idref="x_9780571277643_33" linear="yes"/>
+		<itemref idref="x_9780571277643_34" linear="yes"/>
+		<itemref idref="x_9780571277643_35" linear="yes"/>
+		<itemref idref="x_9780571277643_36" linear="yes"/>
+		<itemref idref="x_9780571277643_37" linear="yes"/>
+		<itemref idref="x_9780571277643_38" linear="yes"/>
+		<itemref idref="x_9780571277643_39" linear="yes"/>
+		<itemref idref="x_9780571277643_40" linear="yes"/>
+		<itemref idref="x_9780571277643_41" linear="yes"/>
+		<itemref idref="x_9780571277643_42" linear="yes"/>
+		<itemref idref="x_9780571277643_43" linear="yes"/>
+		<itemref idref="x_9780571277643_44" linear="yes"/>
+		<itemref idref="x_9780571277643_45" linear="yes"/>
+		<itemref idref="x_9780571277643_46" linear="yes"/>
+		<itemref idref="x_9780571277643_47" linear="yes"/>
+		<itemref idref="x_9780571277643_48" linear="yes"/>
+		<itemref idref="x_9780571277643_49" linear="yes"/>
+		
+	</spine>
+
+	<guide>
+         <reference href="9780571277643_landingpage.html" title="Section Title" type="text"/>
+         <reference href="9780571277643_tableofcontents.html" title="Table of Contents" type="toc"/>
+         <reference href="9780571277643_copyrightinserted.html" title="Section Title" type="text"/>
+    </guide>
+
+</package>
