@@ -12,7 +12,7 @@ con la paleta y las tipografías de su web. Las cifras de cada tarjeta se copian
 o rehacer un libro, actualizarlas y añadir su tarjeta (y su clase de identidad en el `<style>`).
 Cada web enlaza de vuelta con «← Todos los libros» encima del título.
 En GitHub Pages cada web es su propio repo (`volteret4.github.io/scaruffi/`, `/loops_timeline/`,
-`/Postpunk/`, `/jazz/`, `/HeavyMetal/`, `/1966/`) y esta carpeta es el repo `libros` (`/libros/`), que solo sube
+`/Postpunk/`, `/jazz/`, `/HeavyMetal/`, `/1966/`, `/Funk/`) y esta carpeta es el repo `libros` (`/libros/`), que solo sube
 `index.html`, `img/` y este fichero (lista blanca en `.gitignore`). Los enlaces llevan `data-pages`
 con la ruta en Pages; un script (en línea en la portada, en `vistas.js` en las webs) los usa solo
 cuando la página se sirve desde github.io, así que en local siguen siendo relativos. Un libro nuevo
@@ -26,8 +26,9 @@ en cada carpeta: `covers.js` (web), `tools/covers.py` (datos) y el bloque
 copiarlo a todas.
 
 También comparten la pestaña **Menciones** (`menciones.js` y el bloque
-`/* ---------- Menciones (menciones.js) ---------- */` de `style.css`): un desplegable de géneros
-y, para el elegido, un timeline con una barra por artista partida en los discos que el libro cita
+`/* ---------- Menciones (menciones.js) ---------- */` de `style.css`): un desplegable para añadir
+uno o varios géneros (fichas que se reordenan arrastrándolas o con ↑↓; la selección va en
+`#menciones=id1,id2|Artista`) y, para cada uno y en ese orden, un timeline con una barra por artista partida en los discos que el libro cita
 de él (agrupados como en Portadas, que le pasa `groups` y `byArtist`), cada tramo del color de su
 género. Al pulsar un artista, la ficha muestra los pasajes del libro que lo nombran y sus discos
 con vídeo. Los pasajes salen de `data/mentions.js` (generado por `tools/pdfpages.py` a partir del
@@ -58,7 +59,8 @@ marrón tabaco y ámbar, Playfair Display + Source Serif 4. Jazz: negro de club 
 Blue Note, Josefin Sans + Libre Baskerville. Metal (Weinstein): negro acero y carmesí, Metal Mania
 + Crimson Pro; es la **identidad de los libros de metal** (Sound of the Beast, Choosing Death,
 Señores del caos… deben reutilizarla). 1966 (Savage): la de Postpunk por petición expresa, con acento
-amarillo Day-Glo (`#f2c12e`) y una franja op art bajo el título. Un libro nuevo de otro género debe
+amarillo Day-Glo (`#f2c12e`) y una franja op art bajo el título. Funk (Vincent): berenjena y naranja,
+Shrikhand + Karla, títulos con sombra púrpura. Un libro nuevo de otro género debe
 elegir una paleta y un par de fuentes distintos.
 
 Las vistas (Timeline, Discos, Portadas…) se eligen en un **desplegable** (`vistas.js`, común, se carga
@@ -96,6 +98,7 @@ libro (Loops: `Loops_1_Javier_Blanquez.pdf` y `Loops_2_…`, hechos desde los eP
 | `Jazz/` | *Historia del jazz* de Ted Gioia (ePub en español) | datos a mano por capítulo; ★ = discografía recomendada del libro; páginas del PDF generado |
 | `Heavy_Metal_Weinstein/` | *Heavy Metal: The Music and Its Culture* de Deena Weinstein (ePub de Da Capo, 2009, en inglés) | datos a mano por capítulo desde la plantilla de Jazz; ★ = los «100 Definitive Metal Albums» del apéndice A; citas literales en inglés; páginas del PDF generado. El PDF escaneado antiguo y `tools/extract.py` quedan de un primer intento |
 | `1966_Savage/` | *1966: The Year the Decade Exploded* de Jon Savage (ePub de Faber, 2015, en inglés) | datos a mano mes a mes desde la plantilla de Weinstein (capítulo 1 = introducción, 2-13 = enero-diciembre, 14 = discografía); ★ = los singles de cada mes de la discografía del libro, volcados con un script y repartidos entre escenas; citas literales en inglés; eje de 1945 a 1971 con una etiqueta por año y 1966 destacado |
+| `Funk_Vincent/` | *Funk: The Music, the People, and the Rhythm of the One* de Rickey Vincent (ePub de St. Martin’s Griffin, 1996, en inglés) | datos a mano por capítulo desde la plantilla de 1966 (capítulo 1 = prólogo y prefacio, 2-23 = capítulos 1-22, 24 = discografía); las cabeceras de sección salen de `toc.ncx`; ★ = la discografía esencial por capítulo del apéndice, que en el ePub son imágenes escaneadas (pg326-345): transcrita a mano y volcada con un script a las escenas; citas literales en inglés; eje de 1900 a 2000 |
 
 ## Cómo hacer la web de un libro nuevo
 

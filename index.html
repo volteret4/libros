@@ -6,7 +6,7 @@
 <title>Historias de la música</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,800&family=Anton&family=Courier+Prime&family=Syne:wght@800&family=Space+Grotesk:wght@400;500&family=Playfair+Display:wght@900&family=Source+Serif+4:opsz,wght@8..60,400&family=Josefin+Sans:wght@700&family=Libre+Baskerville&family=Metal+Mania&family=Crimson+Pro&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,800&family=Anton&family=Courier+Prime&family=Syne:wght@800&family=Space+Grotesk:wght@400;500&family=Playfair+Display:wght@900&family=Source+Serif+4:opsz,wght@8..60,400&family=Josefin+Sans:wght@700&family=Libre+Baskerville&family=Metal+Mania&family=Crimson+Pro&family=Shrikhand&family=Karla&display=swap">
 <style>
 /* Portada común de Music_Books: una tarjeta por libro, cada una con la identidad de su web
    (paleta y tipografías de su style.css). Las cifras se copian a mano al añadir o rehacer un libro. */
@@ -49,6 +49,7 @@ a.book:hover, a.book:focus-visible { transform: translateY(-3px); border-color: 
 .rock { --c-bg: #120e0b; --c-surface: #1d1713; --c-ink: #f0e6d6; --c-muted: #a8998a; --c-line: #352b23; --c-accent: #f0a93b; --c-title: 'Playfair Display', Georgia, serif; --c-title-w: 900; --c-def: 'Source Serif 4', Georgia, serif; }
 .jazz { --c-bg: #0b0c10; --c-surface: #15171d; --c-ink: #f1efe8; --c-muted: #9b9a94; --c-line: #2a2d36; --c-accent: #3d7eff; --c-title: 'Josefin Sans', Futura, sans-serif; --c-title-w: 700; --c-case: uppercase; --c-track: .06em; --c-def: 'Libre Baskerville', Georgia, serif; }
 .sixties { --c-bg: #0b0b0c; --c-surface: #161617; --c-ink: #ece8df; --c-muted: #99948a; --c-line: #2b2a2a; --c-accent: #f2c12e; --c-title: 'Anton', Impact, sans-serif; --c-title-w: 400; --c-case: uppercase; --c-def: 'Courier Prime', 'Courier New', monospace; }
+.funk { --c-bg: #130b14; --c-surface: #1f1220; --c-ink: #f5e9dc; --c-muted: #a8929f; --c-line: #3a2338; --c-accent: #ff7a1a; --c-title: 'Shrikhand', cursive; --c-title-w: 400; --c-def: 'Karla', system-ui, sans-serif; }
 .metal { --c-bg: #0a0a0b; --c-surface: #161618; --c-ink: #e8e4dc; --c-muted: #908a83; --c-line: #2e2c2e; --c-accent: #d12a35; --c-title: 'Metal Mania', Impact, serif; --c-title-w: 400; --c-def: 'Crimson Pro', Georgia, serif; }
 
 footer { max-width: 1180px; margin: 0 auto; padding: 0 24px 48px; color: var(--muted); font-size: 14px; }
@@ -72,7 +73,7 @@ footer code { background: var(--surface); border: 1px solid var(--line); padding
 
 <main>
   <a class="book rock" href="Scaruffi_Historia_del_Rock/index.html" data-pages="/scaruffi/">
-    <div class="cover type"><b>A History of Rock Music</b><span>1951-2000<br>Piero Scaruffi</span></div>
+    <div class="cover"><img src="img/scaruffi.jpg" alt="Cubierta de A History of Rock Music"></div>
     <div>
       <h2>Historia del rock</h2>
       <p class="by">Piero Scaruffi · 1951-2000</p>
@@ -133,6 +134,17 @@ footer code { background: var(--surface); border: 1px solid var(--line); padding
       <p class="by">Jon Savage · The Year the Decade Exploded</p>
       <p class="what">Un año mes a mes, cada uno a partir de un single: mods, garaje, soul y Motown, LSD, la Velvet y Warhol, Vietnam, derechos civiles, feminismo y derechos gais, con los singles de cada mes de la discografía del libro ★.</p>
       <ul class="stats"><li><b>71</b>escenas y movimientos</li><li><b>878</b>discos y canciones</li><li><b>453</b>artistas</li></ul>
+      <span class="go">Abrir el timeline →</span>
+    </div>
+  </a>
+
+  <a class="book funk" href="Funk_Vincent/index.html" data-pages="/Funk/">
+    <div class="cover"><img src="img/funk.jpg" alt="Cubierta de Funk"></div>
+    <div>
+      <h2>Funk</h2>
+      <p class="by">Rickey Vincent · The Music, the People, and the Rhythm of the One</p>
+      <p class="what">Del blues y James Brown a Sly, Parliament-Funkadelic, el disco, Prince, el go-go y el hip hop: el funk como música y actitud del poder negro, con la discografía esencial del libro ★.</p>
+      <ul class="stats"><li><b>76</b>escenas y bandas</li><li><b>1344</b>discos y canciones</li><li><b>317</b>artistas</li></ul>
       <span class="go">Abrir el timeline →</span>
     </div>
   </a>
