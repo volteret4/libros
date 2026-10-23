@@ -78,7 +78,15 @@ flechas de la influencia a lo influido y «+» para desplegar. **Discos**: una s
 escena o por capítulo (desplegable) y con la casilla «Solo destacados ★» (cada web conserva su texto: los
 cien definitivos, la discografía recomendada…); ya no hay vistas «Discos clave ★» ni «Capítulos». La ficha
 de cada escena tiene los botones «Ver su mapa de influencias» y «Ver sus menciones» (`menciones.show(id)`),
-y se cierra al hacer clic fuera de ella. Los vídeos de la vista Discos miden como máximo 560 px.
+y se cierra al hacer clic fuera de ella. Los vídeos de la vista Discos miden como máximo 560 px. Cada
+grupo de la vista Discos lleva enlaces «▶ lista» (`playlistLinks`): listas anónimas de YouTube
+(`watch_videos?video_ids=`) de 50 vídeos como máximo, en varias partes si hay más.
+
+**Listas fijas en un canal de YouTube**: `youtube/` (no se sube a ningún repo) tiene `plan.mjs`, que
+lee las webs publicadas en Pages y arma una lista por capítulo, y `listas.py`, que las crea en el
+canal y añade vídeos hasta gastar la cuota diaria (unos 190), guardando el progreso en `estado.json`.
+Está instalado en `pepecono:~/Scripts/listas_youtube/` con el temporizador de usuario
+`listas-youtube.timer` (09:30). Los libros nuevos entran solos al publicarse. Ver `youtube/README.md`.
 
 **`music.db`** (SQLite, en esta carpeta) guarda todo lo consultado a Last.fm, Deezer y
 Wikidata, tablas `release` (clave `artista|título` en minúsculas) y `artist` (clave = nombre
