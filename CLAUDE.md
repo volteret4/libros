@@ -71,6 +71,15 @@ después de `app.js`): los botones `.views` siguen en el HTML, ocultos, porque e
 para cambiar de vista, y el desplegable se sincroniza con ellos. Así la barra deja el ancho a los
 filtros de familia.
 
+Vistas comunes (en `app.js`, iguales en todas las webs salvo Scaruffi, que conserva sus vistas propias de
+discos): **Mapa de influencias** (antes «Individual», hash `#focus=id`): mapa conceptual sin eje de años,
+una columna por generación (influencias a la izquierda, herederos a la derecha), cajas con nombre y años,
+flechas de la influencia a lo influido y «+» para desplegar. **Discos**: una sola vista, agrupada por
+escena o por capítulo (desplegable) y con la casilla «Solo destacados ★» (cada web conserva su texto: los
+cien definitivos, la discografía recomendada…); ya no hay vistas «Discos clave ★» ni «Capítulos». La ficha
+de cada escena tiene los botones «Ver su mapa de influencias» y «Ver sus menciones» (`menciones.show(id)`),
+y se cierra al hacer clic fuera de ella. Los vídeos de la vista Discos miden como máximo 560 px.
+
 **`music.db`** (SQLite, en esta carpeta) guarda todo lo consultado a Last.fm, Deezer y
 Wikidata, tablas `release` (clave `artista|título` en minúsculas) y `artist` (clave = nombre
 en minúsculas), cada fila con su JSON. Es común a todos los libros: un libro nuevo solo
@@ -181,3 +190,5 @@ Partir de `Postpunk/` (es la versión más pulida de la plantilla de Loops):
 - Los ficheros generados (`data/refs.js`, `data/yt.js`, `data/yt.json`,
   `data/covers.js`, `data/pages.js`, `data/mentions.js`, `data/discos.js`, `build/`) no se editan a mano.
 - Python siempre con `python3 -I`.
+- No leer entero `Salsa_Rondon/build/chapters/08.txt` (156 KB en 525 líneas): buscar en él con grep o leer solo
+  las líneas necesarias (offset/limit).
