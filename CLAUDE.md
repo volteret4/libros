@@ -12,7 +12,7 @@ con la paleta y las tipografías de su web. Las cifras de cada tarjeta se copian
 o rehacer un libro, actualizarlas y añadir su tarjeta (y su clase de identidad en el `<style>`).
 Cada web enlaza de vuelta con «← Todos los libros» encima del título.
 En GitHub Pages cada web es su propio repo (`volteret4.github.io/scaruffi/`, `/loops_timeline/`,
-`/Postpunk/`, `/jazz/`, `/HeavyMetal/`, `/1966/`, `/Funk/`, `/ComeUp/`, `/TechnoRebels/`, `/Flamenco/`) y esta carpeta es el repo `libros` (`/libros/`), que solo sube
+`/Postpunk/`, `/jazz/`, `/HeavyMetal/`, `/1966/`, `/Funk/`, `/ComeUp/`, `/TechnoRebels/`, `/Flamenco/`, `/Salsa/`) y esta carpeta es el repo `libros` (`/libros/`), que solo sube
 `index.html`, `img/` y este fichero (lista blanca en `.gitignore`). Los enlaces llevan `data-pages`
 con la ruta en Pages; un script (en línea en la portada, en `vistas.js` en las webs) los usa solo
 cuando la página se sirve desde github.io, así que en local siguen siendo relativos. Un libro nuevo
@@ -63,7 +63,7 @@ amarillo Day-Glo (`#f2c12e`) y una franja op art bajo el título. Funk (Vincent)
 Shrikhand + Karla, títulos con sombra púrpura. The Come Up (Abrams): asfalto y magenta (`#ff2e88`),
 Bungee + Barlow, títulos con sombra amarilla y barra de progreso a rayas. Techno Rebels (Sicko): grafito y
 verde ácido (`#b4ff39`), Michroma + IBM Plex Sans, títulos espaciados con resplandor de fósforo. Flamenco (Arbelos):
-negro vino y rojo clavel (`#ef3e4a`), Rye + Lora, franja de lunares bajo el título y en la barra de progreso. Un libro nuevo de otro género debe
+negro vino y rojo clavel (`#ef3e4a`), Rye + Lora, franja de lunares bajo el título y en la barra de progreso. Salsa (Rondón): noche caribeña verde petróleo y coral (`#ff6b4a`), Ultra + Alegreya, títulos con sombra turquesa y franja de atardecer (coral, mango, turquesa) bajo el título y en la barra de progreso. Un libro nuevo de otro género debe
 elegir una paleta y un par de fuentes distintos.
 
 Las vistas (Timeline, Discos, Portadas…) se eligen en un **desplegable** (`vistas.js`, común, se carga
@@ -105,6 +105,7 @@ libro (Loops: `Loops_1_Javier_Blanquez.pdf` y `Loops_2_…`, hechos desde los eP
 | `ComeUp_Abrams/` | *The Come Up: An Oral History of the Rise of Hip-Hop* de Jonathan Abrams (ePub de Crown, 2022, en inglés) | datos a mano por capítulo desde la plantilla de Funk (capítulo 1 = nota del autor, 2-24 = capítulos 1-23); `split.py` lee los XHTML y saca la página impresa de los `pagebreak` del ePub (Postpunk: se muestra la impresa y se enlaza la del PDF); sin discografía, ★ = discos clave según el libro; citas literales en inglés; eje de 1965 a 2023 |
 | `TechnoRebels_Sicko/` | *Techno Rebels: The Renegades of Electronic Funk* de Dan Sicko (ePub de Wayne State University Press, 2.ª ed., 2010, en inglés) | datos a mano por capítulo desde la plantilla de The Come Up (capítulo 1 = prólogo de Bill Brewster y prefacio, 2-8 = capítulos 1-7); `split.py` lee los HTML y saca la página impresa de las anclas `page_N`; sin discografía, ★ = discos clave según el libro; citas literales en inglés; eje de 1965 a 2011 |
 | `Flamenco_Arbelos/` | *El flamenco contado con sencillez* de Carlos Arbelos (ePub de Epublibre de la edición de Maeva, 2003, en español) | datos a mano desde la plantilla de Techno Rebels; los capítulos largos se parten por apartados (1 = prólogo de Cristina Hoyos e introducción, 2 = el origen, 3 = su desarrollo, 4-6 = los palos, 7-9 = cantaores, tocaores, baile, piano y fusión, 10 = glosario y «Para leer, ver y escuchar»); `split.py` lee los XHTML y une cada bloque de versos en una línea con « / »; sin paginación impresa: se muestra y enlaza la página del PDF; ★ = la discografía del apéndice; eje de 1700 a 2005 (lo anterior, como la llegada de los gitanos en 1425, arranca en el borde) |
+| `Salsa_Rondon/` | *El libro de la salsa* de César Miguel Rondón (ePub de Epublibre de la edición de Turner Noema, 2017, con el prefacio-coda de 2017, el de 2004, el prólogo de Leonardo Padura y la coda de 2004) | datos a mano desde la plantilla de Flamenco; los apartados se agrupan en 21 capítulos (1 = prefacios y prólogo, 2-3 = «Salsa cero», 4-6 = «Salsa uno», 7-14 = «Salsa dos (El boom)», 15-18 = «Salsa tres», 19-20 = coda, 21 = discografía básica); `split.py` lee los XHTML y une cada letra de canción (una tabla, a veces a dos columnas) en una línea, versos con « / » y columnas con « // »; las citas de letras a dos columnas, de un solo verso, porque el PDF intercala las columnas; sin paginación impresa: se muestra y enlaza la página del PDF; ★ = la discografía básica del apéndice y discos clave según el libro; eje de 1920 a 2016 |
 
 ## Cómo hacer la web de un libro nuevo
 
