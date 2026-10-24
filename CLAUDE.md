@@ -25,15 +25,20 @@ en cada carpeta: `covers.js` (web), `tools/covers.py` (datos) y el bloque
 `/* ---------- Portadas (covers.js) ---------- */` al final de `style.css`. Si se cambia,
 copiarlo a todas.
 
-También comparten la pestaña **Menciones** (`menciones.js` y el bloque
-`/* ---------- Menciones (menciones.js) ---------- */` de `style.css`): un desplegable para añadir
-uno o varios géneros (fichas que se quitan con ✕; cada timeline se reordena arrastrando el asa ⠿ de su título; la selección va en
-`#menciones=id1,id2|Artista`) y, para cada uno y en ese orden, un timeline con una barra por artista partida en los discos que el libro cita
-de él (agrupados como en Portadas, que le pasa `groups` y `byArtist`), cada tramo del color de su
-género. Al pulsar un artista, la ficha muestra los pasajes del libro que lo nombran y sus discos
-con vídeo. Los pasajes salen de `data/mentions.js` (generado por `tools/pdfpages.py` a partir del
-PDF; se carga la primera vez que se abre una ficha). Cada `app.js` llama a `Menciones({…})` con
-`pageLink(m)`, que convierte una mención `[libro, página del PDF, página impresa, fragmento]` en
+También comparten **Menciones**, que va dentro del Timeline (`menciones.js` y el bloque
+`/* ---------- Menciones (menciones.js) ---------- */` de `style.css`; ya no hay pestañas Menciones ni
+Lista/Escenas): sobre el timeline, un desplegable con búsqueda difusa, «Mostrar todos», «Mostrar ninguno»
+y una casilla por género o escena elige cuáles despliegan bajo su barra (en una fila propia del carril) una
+fila por artista en el mismo eje de años (la selección va en `#menciones=id1,id2|Artista`, `*` = todos).
+Cada fila es una línea fija del primer al último álbum; con la casilla «Discos», se parte en sus álbumes:
+rellenos, los que cita el libro (agrupados como en Portadas, que le pasa `groups` y `byArtist`), del color
+del género en que los cita, y con borde, el resto; el borde, del color del género desplegado. Los «Varios»
+no llevan fila. `app.js` le pregunta en `renderTimeline` el alto extra de cada género (`height`), el último
+año (`lastYear`) y le pide el dibujo (`draw`); le pasa `redraw` y `reveal`. Al pulsar un artista, la ficha
+muestra los pasajes del libro que lo nombran y sus discos con vídeo. Los pasajes salen de `data/mentions.js`
+(generado por `tools/pdfpages.py` a partir del PDF; se carga la primera vez que se abre una ficha). Cada
+`app.js` llama a `Menciones({…})` con `pageLink(m)`, que convierte una mención
+`[libro, página del PDF, página impresa, fragmento]` en
 el enlace de página de esa web. Scaruffi la genera con
 `python3 -I tools/pdfpages.py --sin-discos - <su PDF>` (no tiene `refs.js` y sus discos ya traen página).
 En cada fila, además de los discos citados (en color, del género en que el libro los cita), salen
@@ -69,17 +74,21 @@ elegir una paleta y un par de fuentes distintos.
 Las vistas (Timeline, Discos, Portadas…) se eligen en un **desplegable** (`vistas.js`, común, se carga
 después de `app.js`): los botones `.views` siguen en el HTML, ocultos, porque el código los pulsa
 para cambiar de vista, y el desplegable se sincroniza con ellos. Así la barra deja el ancho a los
-filtros de familia.
+filtros de familia. Las familias también van en un desplegable de `vistas.js` («Familias: todas ▾», con
+una casilla por familia, «Todas» y «Ninguna»), que pulsa los chips de `#families`, ocultos.
 
 Vistas comunes (en `app.js`, iguales en todas las webs salvo Scaruffi, que conserva sus vistas propias de
 discos): **Mapa de influencias** (antes «Individual», hash `#focus=id`): mapa conceptual sin eje de años,
 una columna por generación (influencias a la izquierda, herederos a la derecha), cajas con nombre y años,
-flechas de la influencia a lo influido y «+» para desplegar. **Discos**: una sola vista, agrupada por
+flechas de la influencia a lo influido y «+» para desplegar; las cajas se arrastran (con sus flechas) y se
+quedan donde se sueltan hasta elegir otra raíz o «Reiniciar». El lienzo llega al menos al borde de la ventana, crece al
+arrastrar y se desplaza solo cerca del borde. **Capítulos | Escenas** (antes «Discos»;
+«Capítulos | Géneros» en Loops, «Capítulos | Estilos» en Jazz): una sola vista de discos, agrupada por
 escena o por capítulo (desplegable) y con la casilla «Solo destacados ★» (cada web conserva su texto: los
 cien definitivos, la discografía recomendada…); ya no hay vistas «Discos clave ★» ni «Capítulos». La ficha
-de cada escena tiene los botones «Ver su mapa de influencias» y «Ver sus menciones» (`menciones.show(id)`),
-y se cierra al hacer clic fuera de ella. Los vídeos de la vista Discos miden como máximo 560 px. Cada
-grupo de la vista Discos lleva enlaces «▶ lista» (`playlistLinks`): listas anónimas de YouTube
+de cada escena tiene los botones «Ver su mapa de influencias» y «Ver sus menciones» (`menciones.show(id)`: lo despliega en el Timeline),
+y se cierra al hacer clic fuera de ella. Los vídeos de esa vista miden como máximo 560 px. Cada
+grupo lleva enlaces «▶ lista» (`playlistLinks`): listas anónimas de YouTube
 (`watch_videos?video_ids=`) de 50 vídeos como máximo, en varias partes si hay más.
 
 **Listas fijas en un canal de YouTube**: `youtube/` (no se sube a ningún repo) tiene `plan.mjs`, que
